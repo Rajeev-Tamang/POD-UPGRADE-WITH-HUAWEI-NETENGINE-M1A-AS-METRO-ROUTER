@@ -90,21 +90,6 @@ The goal was to optimize traffic engineering, improve redundancy, and enable eff
 
 ---
 
-## 📂 Repository Structure (Suggested)
-
-📁 POD-Upgrade-Huawei-M1A
-│
-├── 📄 README.md # Documentation (this file)
-├── 📁 configs/
-│ ├── netengine_m1a_mpls.conf
-│ ├── core_router_ospf.conf
-│ └── bng_config_snmp.conf
-├── 📁 diagrams/
-│ └── POD_Upgrade_Topology.png
-└── 📁 reports/
-└── project_summary.pdf
-
-
 ---
 
 ## 🏁 Summary  
