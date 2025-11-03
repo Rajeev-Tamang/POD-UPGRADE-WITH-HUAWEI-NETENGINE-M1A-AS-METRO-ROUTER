@@ -42,25 +42,6 @@ The goal was to optimize traffic engineering, improve redundancy, and enable eff
 - **IGW (Internet Gateway)** for upstream connectivity  
 - **CDN Nodes (FNA/GGC)** connected to improve local content delivery  
 
----
-
-### 🖧 Connectivity Diagram  
-Client (ONT/AP)
-│
-▼
-EA5800X2 - Huawei OLT
-│
-▼
-NetEngine 8000 M1A (Metro Router)
-│
-▼
-Core Router
-├──> BNG ───> IGW ───> Internet
-└──> CDN [FNA/GGC]
-
-
----
-
 ## ⚙️ Configuration Highlights  
 
 ### 🔸 MPLS & OSPF Integration  
